@@ -1,6 +1,6 @@
 from GitHub import ReadMe
 
-class Dropout(ReadMe):
+class M1HA1(ReadMe):
     "/MihaiPE55/MihaiPE55/README.md"
 
     def __init__(self):
